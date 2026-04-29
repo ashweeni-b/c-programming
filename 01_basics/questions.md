@@ -13,3 +13,7 @@
 1. Write a program to convert Celsius (Centigrade degrees temperature) to Fahrenheit
 
     Solution: [Temperature Conversion](./temperature_conversion.c)
+
+1. Write a program to caculate simple interest for a set of values representing principal, number of years and rate of interest
+
+    Solution: [Simple Interest](./simple_interest.c)
