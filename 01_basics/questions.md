@@ -9,3 +9,7 @@
 1. Calculate the area of a circle and modify the same program to calculate the volume of a cylinder given its radius and height
 
     Solution: [Area of circle and Volume of cylinder](./area_of_circle.c)
+
+1. Write a program to convert Celsius (Centigrade degrees temperature) to Fahrenheit
+
+    Solution: [Temperature Conversion](./temperature_conversion.c)
