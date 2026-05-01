@@ -17,3 +17,7 @@
 1. Write a program to caculate simple interest for a set of values representing principal, number of years and rate of interest
 
     Solution: [Simple Interest](./simple_interest.c)
+
+1. Write a program that prints the sum of three integer numbers
+
+    Solution: [Sum of three numbers](./sum_of_three_numbers.c)
