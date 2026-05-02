@@ -44,4 +44,27 @@
 
     Solution: Floating point number
 
+1. Consider the following variables and answer the questions:
+    ```c
+    int i = 30;
+    int j = 20;
+    int k = 30;
+    int l = 15;
+    int m = 15;
+    ```
+
+    Answer the following: <br />
+    ```i > k```, ```j < k```, ```k > l```, ```l != m```,
+    ```i == k```, ```j < l```, ```i != j```, ```j == k```
+
+    Solution:
+    1. ```i > k``` - False
+    1. ```j < k``` - True
+    1. ```k > l``` - True
+    1. ```l != m``` - False
+    1. ```i == k``` - True
+    1. ```j < l``` - False
+    1. ```i != j``` - True
+    1. ```j == k``` - False
+    
 ---
