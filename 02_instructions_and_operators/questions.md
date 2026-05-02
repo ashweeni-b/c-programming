@@ -16,3 +16,7 @@
     
     Since the size of the output is 4, the data tyep of the output is float.
 
+1. Write a program to check whether a number is divisble by 97 or not.
+
+    Solution: [Checking divisibility by 97](./divisible_by_97.c) <br />
+
