@@ -39,3 +39,8 @@
 
     Solution: [Character check](./character_check.c)
 
+1. Write a program to find greatest of four numbers entered by the user
+
+    Solution: [Greatest of four numbers](./greatest_number.c)
+    
+---
