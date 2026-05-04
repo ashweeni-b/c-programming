@@ -34,3 +34,8 @@
 1. Write a program to find whether a year entered by the user is a leap year or not. Take year as an input from the user.
 
     Solution: [Leap Year](./leap_year.c)
+
+1. Write a program to determine whether a character entered by the user is lowercase or not
+
+    Solution: [Character check](./character_check.c)
+
