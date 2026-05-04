@@ -30,3 +30,7 @@
     Take income amount as an input from the user.
 
     Solution: [Income Tax Calculation](./income_tax_calculation.c) <br />
+
+1. Write a program to find whether a year entered by the user is a leap year or not. Take year as an input from the user.
+
+    Solution: [Leap Year](./leap_year.c)
