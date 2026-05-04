@@ -18,3 +18,15 @@
 
     Solution: [Student Result](./student_result.c) <br />
 
+1. Calculate income tax paid by an employee to the government as per the slabs mentioned below:
+
+    | Income Slab | Tax |
+    | --- | --- |
+    | 2.5 L - 5.0 L | 5% |
+    | 5.0 L - 10.0 L | 20% |
+    | Above 10.0 L | 30% |
+
+    _Note that there is no tax below 2.5 L_ <br />
+    Take income amount as an input from the user.
+
+    Solution: [Income Tax Calculation](./income_tax_calculation.c) <br />
