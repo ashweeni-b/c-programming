@@ -9,3 +9,7 @@
 
     Solution: [First n natural numbers](./n_natural_numbers.c)
 
+1. Write a program to print first 'n' natural numbers using for loop.
+
+    Solution: [First n natural numbers](./n_natural_numbers.c)
+

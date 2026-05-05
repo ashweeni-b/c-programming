@@ -1,11 +1,17 @@
 /*
-Problem: Print first n natural numbers using do-while loop
+Problem: Print first n natural numbers
 Concept: Loop Control instructions and operators
 Approach:
-Input number up to which natural numbers need to be printed
-Initalize i to 1
-Print the value of i, increment the value of i
-Check condition of i <= n
+1. Using do-while loop
+    Input number up to which natural numbers need to be printed
+    Initalize i to 1
+    Print the value of i, increment the value of i
+    Check condition of i <= n
+2. Using for loop
+    Input number up to which natural numbers need to be printed
+    Initialize i to 1
+    Check condition of i <= n
+    Print the value of i, increment the value of i
 */
 
 #include <stdio.h>
@@ -21,10 +27,16 @@ int main() {
 
     printf("Natural numbers between %d and %d are:\n", i, number);
 
+    printf("Using do-while loop: ");
     do {
         printf("%d\t", i);
         i++;
     } while (i <= number);
+
+    printf("\nUsing for loop: ");
+    for(int i = 1; i <= number; i++) {
+        printf("%d\t", i);
+    }
 
     return 0;
 }
