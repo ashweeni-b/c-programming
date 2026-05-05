@@ -21,3 +21,7 @@
 
     Solution: [Multiplication Table](./multiplication_table.c)
 
+1. Write a program to print multiplication table of 10 in reversed order.
+
+    Solution: [Multiplication Table of 10 in reverse order](./multiplication_table_of_10.c)
+    
