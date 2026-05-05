@@ -12,6 +12,11 @@ Approach:
     Initialize i to 1
     Check condition of i <= n
     Print the value of i, increment the value of i
+3. In reverse order
+    Input number up to which natural numbers need to be printed
+    Initialize i to number
+    Check condition of i >= 0
+    Print the value of i, decrement the value of i
 */
 
 #include <stdio.h>
@@ -27,16 +32,24 @@ int main() {
 
     printf("Natural numbers from %d to %d are:\n", i, number);
 
+    // Using do-while loop;
     printf("Using do-while loop:\n");
     do {
         printf("%d\t", i);
         i++;
     } while (i <= number);
 
+    // Using for loop
     printf("\nUsing for loop:\n");
     for(int i = 1; i <= number; i++) {
         printf("%d\t", i);
     }
 
+    // Printing in reverse order
+    printf("\nIn reverse order:\n");
+    for (int i = number; i > 0; i--) {
+        printf("%d\t", i);
+    }
+    
     return 0;
 }
