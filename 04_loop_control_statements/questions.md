@@ -38,9 +38,12 @@
 
 1. Write a program to sum first ten natural numbers using while loop.
     
-    Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)    Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)
+    Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)
 
 1. Write a program to sum first ten natural numbers using 'for' and 'do-while' loop.
 
     Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)
 
+1. Write a program to calculate the sum of the numbers occuring in the multiplication table of 8. (consider 8 x 1 to 8 x 10).
+
+    Solution: [Sum of multiplication table of 8](./sum_of_multiplication_table_of_8.c)
