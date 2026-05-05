@@ -38,4 +38,9 @@
 
 1. Write a program to sum first ten natural numbers using while loop.
     
+    Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)    Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)
+
+1. Write a program to sum first ten natural numbers using 'for' and 'do-while' loop.
+
     Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)
+
