@@ -35,3 +35,7 @@
 1. What can be done using one type of loop can also be done using the other two types of loop - true or false?
 
     Solution: True
+
+1. Write a program to sum first ten natural numbers using while loop.
+    
+    Solution: [Sum of first ten natural numbers](./sum_of_natural_numbers.c)
