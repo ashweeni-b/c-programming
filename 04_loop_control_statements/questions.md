@@ -56,3 +56,8 @@
 
     Solution: [Factorial of a number using while loop](./factorial_of_a_number.c)
 
+1. Write a program to check whether a given number is prime or not using loops.
+
+    Solution: [Prime Number Check](./prime_number_check.c)
+
+---
