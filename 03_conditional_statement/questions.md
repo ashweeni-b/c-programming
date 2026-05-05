@@ -16,7 +16,7 @@
 
 1. Write a program to determine whether a student has passed or failed. To pass, a student requires a total of 40% and at least 33% in each subject. Assume there are three subjects and take the marks as input from the user.
 
-    Solution: [Student Result](./student_result.c) <br />
+    Solution: [Student Result](./student_result.c)
 
 1. Calculate income tax paid by an employee to the government as per the slabs mentioned below:
 

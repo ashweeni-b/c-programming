@@ -4,3 +4,8 @@
 
     Solution: [Printing natural numbers](./natural_numbers.c)
 
+
+1. Write a program to print first 'n' natural number using do-while loop.
+
+    Solution: [First n natural numbers](./n_natural_numbers.c)
+
