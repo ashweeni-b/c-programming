@@ -52,3 +52,7 @@
 
     Solution: [Factorial of a number](./factorial_of_a_number.c)
 
+1. Write a program to calculate the factorial of a given number using while loop.
+
+    Solution: [Factorial of a number using while loop](./factorial_of_a_number.c)
+
