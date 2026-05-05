@@ -47,3 +47,8 @@
 1. Write a program to calculate the sum of the numbers occuring in the multiplication table of 8. (consider 8 x 1 to 8 x 10).
 
     Solution: [Sum of multiplication table of 8](./sum_of_multiplication_table_of_8.c)
+
+1. Write a program to calculate the factorial of a given number using a for loop.
+
+    Solution: [Factorial of a number](./factorial_of_a_number.c)
+
