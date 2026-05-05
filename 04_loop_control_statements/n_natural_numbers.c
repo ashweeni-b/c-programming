@@ -25,15 +25,15 @@ int main() {
     
     int i = 1;
 
-    printf("Natural numbers between %d and %d are:\n", i, number);
+    printf("Natural numbers from %d to %d are:\n", i, number);
 
-    printf("Using do-while loop: ");
+    printf("Using do-while loop:\n");
     do {
         printf("%d\t", i);
         i++;
     } while (i <= number);
 
-    printf("\nUsing for loop: ");
+    printf("\nUsing for loop:\n");
     for(int i = 1; i <= number; i++) {
         printf("%d\t", i);
     }
