@@ -24,4 +24,14 @@
 1. Write a program to print multiplication table of 10 in reversed order.
 
     Solution: [Multiplication Table of 10 in reverse order](./multiplication_table_of_10.c)
-    
+
+1. A do while loop is executed: <br />
+    1. At least once
+    1. At least twice
+    1. At most once
+
+    Solution: At least once
+
+1. What can be done using one type of loop can also be done using the other two types of loop - true or false?
+
+    Solution: True
