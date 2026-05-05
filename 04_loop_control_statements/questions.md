@@ -17,3 +17,7 @@
 
     Solution: [First n natural numbers in reverse order](./n_natural_numbers.c)
 
+1. Write a program to print multiplication table of a given number n.
+
+    Solution: [Multiplication Table](./multiplication_table.c)
+
