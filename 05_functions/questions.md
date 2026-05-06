@@ -25,3 +25,7 @@
 
     Solution: [Temperature Conversion](./celsius_to_fahrenheit.c)
 
+1. Write a function to calculate force of attraction on a body of mass 'm' exerted by earth. Consider g = $ 9.8 m/s^2 $
+
+    Solution: [Force of Attraction](./force_of_attraction.c)
+
