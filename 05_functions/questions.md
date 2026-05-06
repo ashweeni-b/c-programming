@@ -17,3 +17,7 @@
 
     Solution: [Factorial of a number](./factorial_of_a_number.c)
 
+1. Write a program using function to find average of three numbers
+
+    Solution: [Average of three numbers](./average_of_three_numbers.c)
+
