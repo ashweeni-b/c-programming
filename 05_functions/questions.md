@@ -29,3 +29,7 @@
 
     Solution: [Force of Attraction](./force_of_attraction.c)
 
+1. Write a program using recursion to calculate $ n^{th} $ element of Fibonacci series
+
+    Solution: [Fibonacci series](./nth_element_fibonacci_series.c)
+
