@@ -21,3 +21,7 @@
 
     Solution: [Average of three numbers](./average_of_three_numbers.c)
 
+1. Write a function to convert Celsius temperature into Fahrenheit
+
+    Solution: [Temperature Conversion](./celsius_to_fahrenheit.c)
+
