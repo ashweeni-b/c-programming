@@ -13,3 +13,7 @@
 
     Solution: [Area of square](./area_of_square.c)
 
+1. Write a program to calculate factorial of a number.
+
+    Solution: [Factorial of a number](./factorial_of_a_number.c)
+
