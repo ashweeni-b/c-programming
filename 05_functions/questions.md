@@ -9,3 +9,7 @@
 
     Solution: [Greeting display](./greeting_display.c)
 
+1. Use the library function to calculate the area of a square with side a/
+
+    Solution: [Area of square](./area_of_square.c)
+
