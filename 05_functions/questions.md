@@ -9,7 +9,7 @@
 
     Solution: [Greeting display](./greeting_display.c)
 
-1. Use the library function to calculate the area of a square with side a/
+1. Use the library function to calculate the area of a square with side a
 
     Solution: [Area of square](./area_of_square.c)
 
@@ -59,3 +59,14 @@
     
     Solution: [Sum of first n natural numbers](./sum_of_n_natural_numbers.c)
 
+1. Write a program using function to print the following pattern (first n lines) <br />
+
+    ```
+    *
+    * * *
+    * * * * *
+    ```
+
+    Solution: [Left triangle pattern](./left_triangle_pattern.c)
+
+---
