@@ -33,3 +33,25 @@
 
     Solution: [Fibonacci series](./nth_element_fibonacci_series.c)
 
+1. What will the following line produce in C: <br />
+
+    ``` c
+    int a = 4;
+    printf("%d %d %d \n", a, ++a, a++);
+    ```
+
+    Solution: <br />
+    ``` c
+    6 6 4
+    ```
+
+    Since, same variable is there within printf(), the evaluation order is from right to left. So,
+
+    ``` c
+    a++ = 4     // Post-increment
+    ++a = 6     // Pre-increment
+    a = 6
+    ```
+
+    the output becomes 6 6 4
+
