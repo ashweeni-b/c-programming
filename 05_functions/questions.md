@@ -55,3 +55,7 @@
 
     the output becomes 6 6 4
 
+1. Write a recursive function to calculate the sum of first 'n' natural numbers.
+    
+    Solution: [Sum of first n natural numbers](./sum_of_n_natural_numbers.c)
+
