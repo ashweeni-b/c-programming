@@ -22,3 +22,8 @@
 
     Solution: [Sum and average ](./sum_average.c)
 
+1. Write a program to print the value of a variable i by using pointer to pointer type of variable
+
+    Solution: [Pointer to Pointer demonstration](./pointer_to_pointer.c)
+
+---
