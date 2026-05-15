@@ -8,3 +8,9 @@
 
     Solution: [Printing variable and address of variable](./variable_and_address.c)
 
+1. Write a program having a variable 'i'. Print the address of 'i'. Pass this variable to a function and print its address. Are these addresses same? Why?
+
+    Solution: [Pointers and Functions](./pointers_and_functions.c)
+
+    The address of variable in the main() function and the address retrieved by passing using call by value function call are different because the copy of the variable is passed as argument. And, the address retrieved by passing using call by reference function call is the same because the address itself is passed as the argument.
+
