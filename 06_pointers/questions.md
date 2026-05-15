@@ -14,3 +14,7 @@
 
     The address of variable in the main() function and the address retrieved by passing using call by value function call are different because the copy of the variable is passed as argument. And, the address retrieved by passing using call by reference function call is the same because the address itself is passed as the argument.
 
+1. Write a program to change the value of a variable to ten times of its current value.
+
+    Solution: [Updating value using pointers](./value_updation.c)
+
