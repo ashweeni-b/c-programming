@@ -18,3 +18,7 @@
 
     Solution: [Updating value using pointers](./value_updation.c)
 
+1. Write a program using a function which calculates the sum and average of two numbers. Use pointers and print the values of sum and averages in main().
+
+    Solution: [Sum and average ](./sum_average.c)
+
