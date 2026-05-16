@@ -8,3 +8,7 @@
 
     Solution: [Pointer Arithmetic](./pointer_arithmetic.c)
 
+1. Write a program to access arrays using pointers
+
+    Solution: [Arrays using Pointers](./array_using_pointers.c)
+
