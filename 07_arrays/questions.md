@@ -4,3 +4,7 @@
 
     Solution: [Accessing Marks](./accessing_marks.c)
 
+1. Write a program to demonstrate pointer arithmetic on variables.
+
+    Solution: [Pointer Arithmetic](./pointer_arithmetic.c)
+
