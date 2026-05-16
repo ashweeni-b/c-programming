@@ -12,3 +12,7 @@
 
     Solution: [Arrays using Pointers](./array_using_pointers.c)
 
+1. Create a 2D array by taking input from the user. Write a display function to print the content of this 2D array on the screen
+
+    Solution: [2D Array](./two_dimensional_array.c)
+
