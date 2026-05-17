@@ -56,5 +56,8 @@
 1. Create an array of size 3 x 10 containing multiplication table of the numbers input by the user.
 
     Solution: [Tables of input by the user in 2-D Array](./tables_input_2d_array.c)
-    
+
+1. Create a three-dimensional array and print the address of its elements in increasing order.
+
+    Solution: [Addresses of 3D array](./3d_array.c)
 ---
