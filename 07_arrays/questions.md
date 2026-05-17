@@ -41,4 +41,8 @@
 
     Solution: [Multiplication table of n](./multiplication_table_of_n.c)
 
+1. Write a program containing a function which reverses the array passed to it.
+
+    Solution: [Reversal of an array](./reversal_of_an_array.c)
+    
 ---
