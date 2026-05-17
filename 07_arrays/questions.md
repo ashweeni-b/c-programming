@@ -28,9 +28,13 @@
     1. Depends
 
     Solution: False
-    
+
     *(S + 3) points to the garbage value because it denotes the fourth element and not the third element because the maximum size of the array is 3.
 
     *S points to the first element, *(S + 1) denotes to the second element and *(S + 2) denotes to the third element, which is the last element of the array
 
+1. Write a program to create an array of 10 integers and store multiplication table of 5 in it.
+
+    Solution: [Multiplication table of 5](./multiplication_table_of_5.c)
+    
 ---
