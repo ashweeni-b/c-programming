@@ -21,3 +21,12 @@
 1. Write a program that prints the sum of three integer numbers
 
     Solution: [Sum of three numbers](./sum_of_three_numbers.c)
+
+1. Print _Hello, World!_ on a single line and the input string on the next line.
+
+    _Hackerrank Easy: C(Basics)_
+    Question: ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true)
+
+    Solution: [Input and Output- Hackerrank](./input_output_hr.c)
+
+---
