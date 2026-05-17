@@ -48,5 +48,9 @@
 1. Write a program containing functions which counts the number of positive integers in an array
 
     Solution: [Count of positive integers](./count_positive_integers.c)
+
+1. Create an array of size 3 x 10 containing multiplication table of the numbers 2, 7 and 9 respectively.
+
+    Solution: [Tables in 2-D Array](./tables_2d_array.c)
     
 ---
