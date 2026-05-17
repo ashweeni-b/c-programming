@@ -44,5 +44,9 @@
 1. Write a program containing a function which reverses the array passed to it.
 
     Solution: [Reversal of an array](./reversal_of_an_array.c)
+
+1. Write a program containing functions which counts the number of positive integers in an array
+
+    Solution: [Count of positive integers](./count_positive_integers.c)
     
 ---
