@@ -36,5 +36,9 @@
 1. Write a program to create an array of 10 integers and store multiplication table of 5 in it.
 
     Solution: [Multiplication table of 5](./multiplication_table_of_5.c)
-    
+
+1. Write a program to create an array of 10 integers and store multiplication table of n in it, where n is input from the user.
+
+    Solution: [Multiplication table of n](./multiplication_table_of_n.c)
+
 ---
