@@ -16,3 +16,7 @@
 
     Solution: [Strings - Input and Verification](./input_strings.c)
 
+1. Write your own version of `strlen` function from `<string.h>`
+
+    Solution: [Length of the String](./string_length.c)
+
