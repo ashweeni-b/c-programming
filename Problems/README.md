@@ -10,5 +10,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true) | Functions | Easy | [Solution](./easy/function_in_c.c) | HackerRank |
 | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true) | Pointers | Easy | [Solution](./easy/pointers_in_c.c) | HackerRank |
 | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true) | Conditionals and Loops | Easy | [Solution](./easy/conditional_statements_in_c.c) | HackerRank |
+| [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true) | Easy | [Solution](./easy/for_loop_in_c.c) | HackerRank |
 
 ---
