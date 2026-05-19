@@ -12,3 +12,7 @@
 
     Solution: `gets()` is used to read a multi-word string
 
+1. Write a program to take string as an input from the user using `%c` and `%s` confirm that the strings are equal.
+
+    Solution: [Strings - Input and Verification](./input_strings.c)
+
