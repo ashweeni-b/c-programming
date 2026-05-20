@@ -32,3 +32,7 @@
 
     Solution: [Encryption of String](./encryption_of_string.c)
 
+1. Write a program to decrypt the string encrypted using the encryption function
+
+    Solution: [Decryption of String](./decryption_of_string.c)
+
