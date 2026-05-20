@@ -36,3 +36,7 @@
 
     Solution: [Decryption of String](./decryption_of_string.c)
 
+1. Write a program to count the occurrence of a given character in a string.
+
+    Solution: [Occurrence of a character](./occurrence_of_character.c)
+
