@@ -28,3 +28,7 @@
 
     Solution: [Copying strings](./copying_strings.c)
 
+1. Write a program to encrypt a string by adding 1 to the ASCII value of its characters
+
+    Solution: [Encryption of String](./encryption_of_string.c)
+
