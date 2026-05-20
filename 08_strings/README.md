@@ -24,3 +24,7 @@
 
     Solution: [Slicing the string](./slicing_of_string.c)
 
+1. Write your own version of `strcpy` function from `<string.h>`.
+
+    Solution: [Copying strings](./copying_strings.c)
+
