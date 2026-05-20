@@ -13,5 +13,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true) | Conditionals and Loops | Easy | [Solution](./easy/for_loop_in_c.c) | HackerRank |
 | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true) | Conditionals and Loops | Easy | [Solution](./easy/sum_of_digits.c) | HackerRank |
 | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true) | Operators | Easy | [Solution](./easy/bitwise_operators.c) | HackerRank |
+| [Printing Patterns Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true) | Patterns | Medium | [Solution](./medium/patterns_using_loops.c) | HackerRank |
 
 ---
