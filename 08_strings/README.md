@@ -40,3 +40,8 @@
 
     Solution: [Occurrence of a character](./occurrence_of_character.c)
 
+1. Write a program to check whether a given character is present in a string or not.
+
+    Solution: [Presence of a character](./presence_of_a_character.c)
+
+---
