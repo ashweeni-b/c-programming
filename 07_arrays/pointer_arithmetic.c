@@ -29,7 +29,7 @@ int main() {
     printf("Pointer 2 address: %u\n", ptr2);
     
     // Subtraction of integer pointer 2 from updated integer pointer 1
-    printf("Pointer 1 address- Pointer 2 address: %u\n", ptr1 - ptr2);
+    printf("Pointer 1 address - Pointer 2 address: %u\n", ptr1 - ptr2);
 
     // Comparison of updated integer pointer 1 with integer pointer 2
     if (ptr1 >= ptr2) {

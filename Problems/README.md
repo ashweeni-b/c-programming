@@ -15,5 +15,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true) | Operators | Easy | [Solution](./easy/bitwise_operators.c) | HackerRank |
 | [Printing Patterns Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true) | Patterns | Medium | [Solution](./medium/patterns_using_loops.c) | HackerRank |
 | [Calculate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true) | Functions | Easy | [Solution](./easy/calculate_nth_term.c) | HackerRank |
+| [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true) | Functions | Easy | [Solution](./easy/students_marks_sum.c) | HackerRank |
 
 ---
