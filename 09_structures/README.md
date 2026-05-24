@@ -24,3 +24,8 @@
 
     Solution: [Sum of Vectors](./vectors_sum.c)
 
+1. Twenty integers are to be stored in memory. What will you prefer - Array or structure?
+
+    Solution: <br />
+    Strucutres are preferred over Arrays because structures make data management easier for programmers. If the integers are declared using arrays then the accessing of the integers becomes tedious, so to avoid that structures are used.
+
