@@ -57,3 +57,6 @@
         char branch[20];
     };
     ```
+1. Write a structure capable of storing date. Write a function to compare those dates.
+
+    Solution: [Storage and comparison of dates](./dates_comparison.c)
