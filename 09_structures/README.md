@@ -19,3 +19,8 @@
 1. Create a two-dimensional vector using structures in C.
 
     Solution: [Vectors in C](./vectors.c)
+
+1. Write a function `sumVector` which returns the sum of two vectors passed to it. The vectors must be two-dimensional.
+
+    Solution: [Sum of Vectors](./vectors_sum.c)
+
