@@ -29,3 +29,6 @@
     Solution: <br />
     Strucutres are preferred over Arrays because structures make data management easier for programmers. If the integers are declared using arrays then the accessing of the integers becomes tedious, so to avoid that structures are used.
 
+Write a program with a structure representing a complex number.
+
+    Solution: [Complex Number](./complex_number.c)
