@@ -41,3 +41,19 @@
 
     Solution: [Complex Number using typedef](./complex_number_typedef.c)
 
+1. Create a structure representing a bank account of a customer. What fields did you use and why?
+
+    Solution: <br />
+    For a structure of a bank account, the necessary fields are account holder's name, account number, account balance, account holder's phone number, account holder's email id, ifsc code of the bank and branch name. <br />
+
+    ```c
+    struct bank_account {
+        char name[20];
+        long int account_number;
+        int account_balance;
+        long int phone_number;
+        char email_id[30];
+        char ifsc_code[15];
+        char branch[20];
+    };
+    ```
