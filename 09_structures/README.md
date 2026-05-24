@@ -37,3 +37,7 @@
 
     Solution: [Array of Complex Numbers](./array_of_complex_numbers.c)
 
+1. Write a program with a structure representing a complex number using `typedef`.
+
+    Solution: [Complex Number using typedef](./complex_number_typedef.c)
+
