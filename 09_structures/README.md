@@ -12,3 +12,7 @@
 
     Solution: [Pointers to Structures](./pointers_to_structures.c)
 
+1. Write a program demonstrating passing structure to a function.
+
+    Solution: [Passing Structure to Function](./structure_to_function.c)
+
