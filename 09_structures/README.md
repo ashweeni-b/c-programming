@@ -7,3 +7,8 @@
 1. Write a program demonstrating the array of structures.
 
     Solution: [Array of Structures](./array_of_structures.c)
+
+1. Write a program demonstrating the pointers to structures.
+
+    Solution: [Pointers to Structures](./pointers_to_structures.c)
+
