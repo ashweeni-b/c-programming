@@ -16,3 +16,6 @@
 
     Solution: [Passing Structure to Function](./structure_to_function.c)
 
+1. Create a two-dimensional vector using structures in C.
+
+    Solution: [Vectors in C](./vectors.c)
