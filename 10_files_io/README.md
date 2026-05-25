@@ -12,3 +12,7 @@
 
     Solution: [Reading a character](./reading_a_character.c)
 
+1. Write a program to write a character to the file.
+
+    Solution: [Writing a character to a file](./writing_a_character.c)
+
