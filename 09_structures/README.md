@@ -60,3 +60,9 @@
 1. Write a structure capable of storing date. Write a function to compare those dates.
 
     Solution: [Storage and comparison of dates](./dates_comparison.c)
+
+1. Write a structure capable of storing time using `typedef` and write a function to compare those times given by the user. Use function for comparison.
+
+    Solution: [Storage and comparison of times](./times_comparison.c)
+
+---
