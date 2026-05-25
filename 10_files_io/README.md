@@ -27,3 +27,8 @@
 1. Write a program to generate multiplication table of a given number in text format. Make sure that the file is readable and well formatted.
 
     Solution: [Multiplication Table](./multiplication_table.c)
+
+1. Write a program to read a text file character by character and write its content twice in separate file.
+
+    Solution: [Reading from one file and writing it to another file](./reading_writing_file.c)
+
