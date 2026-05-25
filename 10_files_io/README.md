@@ -16,3 +16,7 @@
 
     Solution: [Writing a character to a file](./writing_a_character.c)
 
+1. Write a program to read character by character from the file.
+
+    Solution: [Reading character by character](./reading_character_by_character.c)
+

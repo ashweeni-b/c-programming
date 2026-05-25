@@ -1,0 +1,5 @@
+Reading character by character
+
+Character can be read using `fgetc()` function.
+
+There is an EOF at the end of the file which tells the compiler that all the content of the file is read.
