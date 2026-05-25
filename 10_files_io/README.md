@@ -38,3 +38,8 @@
 
     Solution: [Employee Data](./employee_data.c)
 
+1. Write a program to modify a file containing an integer to double its value.
+
+    Solution: [Modifying stored value in file](./modifying_value.c)
+
+---
