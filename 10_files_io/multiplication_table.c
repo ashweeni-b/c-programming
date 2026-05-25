@@ -2,6 +2,7 @@
 Problem: Store multiplication table of number
 entered by the user in the file
 Concept: File I/O
+File: multiplication_table.txt
 */
 
 #include <stdio.h>

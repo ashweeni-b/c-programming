@@ -1,6 +1,7 @@
 /*
 Problem: Read from one file and store it twice in another file
 Concept: File I/O
+File: file_1.txt, file_2.txt
 */
 
 #include <stdio.h>

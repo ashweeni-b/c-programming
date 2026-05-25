@@ -1,6 +1,7 @@
 /*
 Problem: Write an integer to the file
 Concept: File I/O
+File: area.txt
 */
 
 #include <stdio.h>

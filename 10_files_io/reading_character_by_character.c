@@ -1,6 +1,7 @@
 /*
 Problem: Reading file character by character
 Concept: File I/O
+File: info.txt
 */
 
 #include <stdio.h>

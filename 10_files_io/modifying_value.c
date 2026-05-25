@@ -2,6 +2,7 @@
 Problem: Modify the current integer value in the file
 to double its value
 Concept: File I/O
+File: value.txt
 */
 
 #include <stdio.h>

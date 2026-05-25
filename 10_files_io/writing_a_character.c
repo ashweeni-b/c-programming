@@ -1,6 +1,7 @@
 /*
 Problem: Writing a character to the file
 Concpet: File I/O
+File: alphabet.txt
 */
 
 #include <stdio.h>

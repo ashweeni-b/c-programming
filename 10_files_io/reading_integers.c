@@ -1,6 +1,7 @@
 /*
 Problem: Reading integers from file
 Concept: File I/O
+File: integers.txt
 */
 
 #include <stdio.h>

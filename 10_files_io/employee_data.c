@@ -4,6 +4,7 @@ following format
 i. Name1, Salary1
 ii. Name2, Salary2
 Concept: File I/O
+File: employee_data.txt
 */
 
 #include <stdio.h>
