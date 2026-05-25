@@ -32,3 +32,9 @@
 
     Solution: [Reading from one file and writing it to another file](./reading_writing_file.c)
 
+1. Take a name and salary of two employees as input from the user and write them to a text file in the following format: <br />
+    i. Name1, Salary1 <br />
+    ii. Name2, Salary2 <br />
+
+    Solution: [Employee Data](./employee_data.c)
+
