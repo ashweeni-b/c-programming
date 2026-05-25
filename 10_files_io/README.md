@@ -20,3 +20,7 @@
 
     Solution: [Reading character by character](./reading_character_by_character.c)
 
+1. Write a program to read three integers from a file.
+
+    Solution: [Reading integers from file](./reading_integers.c)
+
