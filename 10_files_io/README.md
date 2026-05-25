@@ -8,3 +8,7 @@
 
     Solution: [Writing to a file](./file_write.c)
 
+1. Write a program to read a character from the file.
+
+    Solution: [Reading a character](./reading_a_character.c)
+
