@@ -19,5 +19,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/1d_arrays.c) | HackerRank |
 | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/array_reversal.c) | HackerRank |
 | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/printing_tokens.c) | HackerRank |
+| [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/digit_frequency.c) | HackerRank |
 
 ---
