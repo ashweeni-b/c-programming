@@ -12,3 +12,7 @@
 
     Solution: [Free function](./demonstration_free_function.c)
 
+1. Create an array dynamically capable of storing 5 integers. Now use realloc so that it can now store 10 integers.
+
+    Solution: [Demonstration of realloc](./demonstration_of_realloc.c)
+
