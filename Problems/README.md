@@ -16,5 +16,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [Printing Patterns Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true) | Patterns | Medium | [Solution](./medium/patterns_using_loops.c) | HackerRank |
 | [Calculate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true) | Functions | Easy | [Solution](./easy/calculate_nth_term.c) | HackerRank |
 | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true) | Functions | Easy | [Solution](./easy/students_marks_sum.c) | HackerRank |
+| [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/1d_arrays.c) | HackerRank |
 
 ---
