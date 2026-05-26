@@ -16,3 +16,8 @@
 
     Solution: [Demonstration of realloc](./demonstration_of_realloc.c)
 
+1. Create an array of multiplication table of 7 upto 10. Use realloc to make it store 15 numbers.
+
+    Solution: [Multiplication table of 7](./multiplication_table_of_7.c)
+
+---
