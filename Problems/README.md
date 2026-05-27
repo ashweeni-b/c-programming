@@ -20,5 +20,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/array_reversal.c) | HackerRank |
 | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/printing_tokens.c) | HackerRank |
 | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/digit_frequency.c) | HackerRank |
+| [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/dynamic_array.c) |
 
 ---
