@@ -1,6 +1,6 @@
 ### Problems
 
-This folder contains the various problems solved on HackerRank and CodeChef platforms
+This folder contains the various problems solved on HackerRank platform
 
 | Questions | Concept | Difficulty Level | Solution | Platform |
 | -- | -- | -- | -- | -- |
@@ -21,5 +21,6 @@ This folder contains the various problems solved on HackerRank and CodeChef plat
 | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/printing_tokens.c) | HackerRank |
 | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/digit_frequency.c) | HackerRank |
 | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/dynamic_array.c) |
+| [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) | Functions | Hard | [Solution](./hard/sorting_array_of_strings.c) |
 
 ---

@@ -4,7 +4,7 @@ A structured repository for practicing C programming - from fundamentals to prob
 
 This repository contains topic-wise C programs, and practice problems solved while building a strong foundation in programming.
 
-Also it contains the problems solved on HackerRank and CodeChef platforms.
+Also it contains the problems solved on HackerRank platfomr.
 
 ### 📂 Repository Structure
 
@@ -22,6 +22,11 @@ Each folder contains:
 1. Functions and Recursion
 1. Pointers
 1. Arrays 
+1. Strings
+1. Structures
+1. Files I/O
+1. Dynamic Memory Management
+1. Problems Solved on HackerRank Platform
 
 ### ⚙️ How to Run
 
@@ -34,7 +39,7 @@ gcc filename.c
 
 ### 🔥 Goals
 - Build strong programming fundamentals
-- Transition to Data Structures & Algorithms
+- Transition to C++ programming language
 - Develop problem-solving skills
 
 ### 🤝 Contribution
