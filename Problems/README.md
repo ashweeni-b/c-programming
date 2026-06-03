@@ -23,5 +23,6 @@ This folder contains the various problems solved on HackerRank platform
 | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true) | Arrays and Strings | Medium | [Solution](./medium/dynamic_array.c) | HackerRank |
 | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) | Functions | Hard | [Solution](./hard/sorting_array_of_strings.c) | HackerRank |
 | [Permuatation of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true) | Functions | Medium | [Solution](./medium/permutation_of_strings.c) | HackerRank |
+| [Variadic function in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) | Functions | Medium | [Solution](./medium/variadic_function.c) | HackerRank |
 
 ---
