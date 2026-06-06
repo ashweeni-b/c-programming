@@ -25,5 +25,6 @@ This folder contains the various problems solved on HackerRank platform
 | [Permuatation of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true) | Functions | Medium | [Solution](./medium/permutation_of_strings.c) | HackerRank |
 | [Variadic function in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) | Functions | Medium | [Solution](./medium/variadic_function.c) | HackerRank |
 | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true) | Functions | Hard | [Solution](./hard/querying_the_document.c) | HackerRank |
+| [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true) | Structs and Enums | Easy | [Solution](./easy/boxes_through_a_tunnel.c) | HackerRank |
 
 ---
